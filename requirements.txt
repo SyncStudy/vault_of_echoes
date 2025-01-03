@@ -1,0 +1,3 @@
+# vault_of_echoes/requirements.txt
+openai==0.27.8
+pytest==7.4.0

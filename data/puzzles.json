@@ -1,0 +1,292 @@
+{
+  "puzzles": [
+    {
+      "puzzle_id": "puzzle_1",
+      "prompt": "I am always hungry, I must always be fed. The finger I lick will soon turn red. What am I?",
+      "solution": ["fire"],
+      "hints": [
+        "It can consume anything combustible.",
+        "It flickers and glows."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_2",
+      "prompt": "What has to be broken before you can use it?",
+      "solution": ["egg"],
+      "hints": [
+        "It's something in your kitchen, typically eaten for breakfast.",
+        "It's covered by a shell."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_3",
+      "prompt": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+      "solution": ["candle"],
+      "hints": [
+        "It provides light as it burns.",
+        "As it melts, it physically gets shorter."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_4",
+      "prompt": "What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",
+      "solution": ["river"],
+      "hints": [
+        "It has streams or rapids of water.",
+        "It has a mouth and a bed."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_5",
+      "prompt": "What month of the year has 28 days?",
+      "solution": ["all of them", "all months"],
+      "hints": [
+        "It's a trick question.",
+        "They all have at least 28 days."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_6",
+      "prompt": "What gets bigger when more is taken away?",
+      "solution": ["hole"],
+      "hints": [
+        "You can keep digging to expand it.",
+        "It's commonly found in the ground or in a wall."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_7",
+      "prompt": "I speak without a mouth and hear without ears. I have nobody, but come alive with wind. What am I?",
+      "solution": ["echo"],
+      "hints": [
+        "It's a sound, but not from a living being.",
+        "Often heard in large halls or canyons."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_8",
+      "prompt": "You see me once in June, twice in November, and not at all in May. What am I?",
+      "solution": ["the letter e", "e"],
+      "hints": [
+        "Look at the spelling of those months.",
+        "It appears twice in 'November'."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_9",
+      "prompt": "I shave every day, but my beard stays the same. What am I?",
+      "solution": ["barber"],
+      "hints": [
+        "A professional who uses a razor or scissors.",
+        "Makes others' beards shorter."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_10",
+      "prompt": "What has a face and two hands but no arms or legs?",
+      "solution": ["clock"],
+      "hints": [
+        "It tells time.",
+        "It's often hung on walls or worn on wrists."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_11",
+      "prompt": "The more of this there is, the less you see. What is it?",
+      "solution": ["darkness"],
+      "hints": [
+        "When it increases, visibility decreases.",
+        "It's the opposite of light."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_12",
+      "prompt": "I’m taken from a mine and locked up in a wooden case. I never see the sun, and I help others see it. What am I?",
+      "solution": ["pencil lead", "graphite"],
+      "hints": [
+        "It's found inside a pencil.",
+        "Used for writing or drawing."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_13",
+      "prompt": "I am not alive but I can grow. I don't have lungs but I need air. I don't have a mouth but water kills me. What am I?",
+      "solution": ["fire"],
+      "hints": [
+        "It grows when fed fuel and oxygen.",
+        "Water can extinguish it."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_14",
+      "prompt": "What building has the most stories?",
+      "solution": ["library"],
+      "hints": [
+        "It stores a lot of 'stories'.",
+        "It's where you borrow books."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_15",
+      "prompt": "What is always in front of you but can’t be seen?",
+      "solution": ["the future", "future"],
+      "hints": [
+        "It's not behind you.",
+        "It's time-related."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_16",
+      "prompt": "I'm found in socks, scarves, and mittens; and often in the paws of playful kittens. What am I?",
+      "solution": ["yarn"],
+      "hints": [
+        "Used in knitting or crocheting.",
+        "Commonly made of wool or cotton."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_17",
+      "prompt": "What has words, but never speaks?",
+      "solution": ["book"],
+      "hints": [
+        "You can read it, but it can't read you.",
+        "It might be printed or digital."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_18",
+      "prompt": "What belongs to you, but other people use it more than you do?",
+      "solution": ["your name", "name"],
+      "hints": [
+        "It's an identifier.",
+        "Friends and strangers address you by it."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_19",
+      "prompt": "What can you catch but not throw?",
+      "solution": ["a cold", "cold"],
+      "hints": [
+        "It's related to sickness.",
+        "You might sneeze if you have it."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_20",
+      "prompt": "What has a bottom at the top?",
+      "solution": ["your legs", "legs"],
+      "hints": [
+        "Think about the human body.",
+        "They help you walk."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_21",
+      "prompt": "I have branches, but no trunk, leaves, or fruit. What am I?",
+      "solution": ["bank"],
+      "hints": [
+        "People deposit money here.",
+        "A different type of 'branch'."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_22",
+      "prompt": "What starts with 'e' and ends with 'e' but only has one letter in it?",
+      "solution": ["envelope"],
+      "hints": [
+        "You can put a letter inside it.",
+        "Often used for mailing."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_23",
+      "prompt": "Where does today come before yesterday?",
+      "solution": ["dictionary"],
+      "hints": [
+        "Words are arranged alphabetically here.",
+        "It can reorder the days in that sense."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_24",
+      "prompt": "If two’s company, and three’s a crowd, what are four and five?",
+      "solution": ["nine", "9"],
+      "hints": [
+        "It's a math riddle.",
+        "Add 4 and 5."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_25",
+      "prompt": "A barrel of water weighs 20 pounds. What must you add to it to make it weigh 12 pounds?",
+      "solution": ["a hole", "hole"],
+      "hints": [
+        "It makes water leak out.",
+        "By removing water, you lower the total weight."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_26",
+      "prompt": "Forward I am heavy, backward I am not. What am I?",
+      "solution": ["ton"],
+      "hints": [
+        "Think of the word spelled backwards.",
+        "'ton' reversed is 'not'."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_27",
+      "prompt": "What is full of holes but still holds water?",
+      "solution": ["sponge"],
+      "hints": [
+        "It's used for cleaning.",
+        "It's porous."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_28",
+      "prompt": "What goes up, but never comes down?",
+      "solution": ["your age", "age"],
+      "hints": [
+        "It increases every year.",
+        "It's related to time passing."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_29",
+      "prompt": "What can fill a room but takes up no space?",
+      "solution": ["light"],
+      "hints": [
+        "It's essential for seeing.",
+        "It can come from a bulb or the sun."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_30",
+      "prompt": "What has one eye but cannot see?",
+      "solution": ["needle"],
+      "hints": [
+        "Used for sewing.",
+        "It has a small hole for thread."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_31",
+      "prompt": "What begins with T, ends with T, and has T in it?",
+      "solution": ["teapot"],
+      "hints": [
+        "A container for hot beverages.",
+        "It literally has T (the letter) in it."
+      ]
+    },
+    {
+      "puzzle_id": "puzzle_32",
+      "prompt": "I'm light as a feather, yet the strongest person can't hold me for more than a minute. What am I?",
+      "solution": ["breath"],
+      "hints": [
+        "You do it every moment.",
+        "Essential for living."
+      ]
+    }
+  ]
+}
